@@ -1,0 +1,19 @@
+{
+  "dependencies": [
+    "protobuf",
+    "boost-algorithm",
+    "boost-foreach",
+    "boost-format",
+    "boost-geometry",
+    "boost-heap",
+    "boost-optional",
+    "boost-property-tree",
+    "boost-range",
+    "boost-tokenizer",
+    "robin-hood-hashing",
+    "rapidjson",
+    "lz4",
+    "abseil"
+  ],
+  "builtin-baseline": "2a80e7357441c65675c3951c43a3e6e91f836410"
+}

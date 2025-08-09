@@ -1,0 +1,6 @@
+[submodule "src/valhalla"]
+	path = src/valhalla
+	url = https://github.com/valhalla/valhalla.git
+[submodule "src/protobuf"]
+	path = src/protobuf
+	url = https://github.com/protocolbuffers/protobuf.git
